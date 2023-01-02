@@ -1,0 +1,34 @@
+.background {
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to bottom right, rgb(224, 18, 18), rgb(240, 233, 247), rgb(29, 29, 29));
+}
+body {
+    justify-content: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+  
+  }
+
+.image {
+    float: left;
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+nav {
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 20px;
+}
